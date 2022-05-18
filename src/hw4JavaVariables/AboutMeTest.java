@@ -25,6 +25,7 @@ public class AboutMeTest {
 		alex.sex = 'M';
 		alex.tallPerson = true; // variables initialized in lines 18-26 for alex
 		alex.aboutMe(); // method initialized
+		// change
 	}
 
 }

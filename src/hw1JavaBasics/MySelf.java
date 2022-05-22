@@ -12,7 +12,6 @@ package hw1JavaBasics;
 public class MySelf {
 
 	// MainMethod-->this is a entry point of Java
-	// MainMethod-->this is a entry point of Java
 	public static void main(String[] args) {
 		System.out.println("Imran Hussain");
 		System.out.println("472 E146ST APT 2 Bronx, NY 10455");

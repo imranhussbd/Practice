@@ -13,13 +13,10 @@ public class DiabeticCondition {
 		} else {
 			if (hbga1c >= 5.7) {
 				System.out.println("I am a pre-diabetic patient");
-				if (hbga1c < 5.7) {
-					System.out.println("I am a healthy person");
-				}
+			} else if (hbga1c < 5.7) {
+				System.out.println("I am a healthy person");
 			}
-			System.out.println("Congratulation! you are not diabetic");
 		}
-		scanner.close();
+		scanner.close();//fixed
 	}
-
 }

@@ -154,6 +154,10 @@ public class UseOfXpath {
 	 *  iv) Cart link--> //span[starts-with(@class, 'cart-label')]
 	 *  
 	 *  v) Curbside Pickup img--> //img[starts-with(@alt, 'Curbside Pickup')]
+	 *  
+	 *  ------------------------------------------------------
 	 */
+	
+	//Lot of tags
 
 }
